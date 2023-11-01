@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-06T13:14:49 IST" name="Default suite" finished-at="2023-10-06T13:15:23 IST" duration-ms="33680">
+    <groups>
+    </groups>
+    <test started-at="2023-10-06T13:14:49 IST" name="Default test" finished-at="2023-10-06T13:15:23 IST" duration-ms="33680">
+      <class name="com.testingshashtra.regression.SearchComponentsTests">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.testingshashtra.regression.SearchComponentsTests@2cf3d63b]" started-at="2023-10-06T13:14:49 IST" name="openBrowser" finished-at="2023-10-06T13:14:57 IST" duration-ms="8044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="verifySearchResultsArePopulatingCorrectResultsForMenSneakers()[pri:0, instance:com.testingshashtra.regression.SearchComponentsTests@2cf3d63b]" started-at="2023-10-06T13:14:57 IST" name="verifySearchResultsArePopulatingCorrectResultsForMenSneakers" finished-at="2023-10-06T13:15:19 IST" duration-ms="22062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchResultsArePopulatingCorrectResultsForMenSneakers -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testingshashtra.regression.SearchComponentsTests@2cf3d63b]" started-at="2023-10-06T13:15:19 IST" name="tearDown" finished-at="2023-10-06T13:15:23 IST" duration-ms="3454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testingshashtra.regression.SearchComponentsTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
